@@ -11,6 +11,7 @@ class App extends Component {
         <p>Some paragraph .....</p>
         <h2>2header2</h2>
         <h3>3header3</h3>
+        <h4>header4</h4>
       </div>
     );
   }
