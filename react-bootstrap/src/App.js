@@ -9,7 +9,7 @@ class App extends Component {
         <h1>Just Header for today....</h1>
       <h2>header2</h2>
       <h3>header3</h3>
-        <h4>Second header...</h4>
+        <h4>Second header....</h4>
       <h5>header 5</h5>
         <p>Some paragraph .....</p>
         <h2>header2</h2>
